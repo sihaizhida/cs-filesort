@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <property>
+        <name>hdfs.file.input.path</name>
+        <value>MyDir/MapredFileOut/account/LinkSuccess</value>
+    </property>
+	<property>
+		<name>hdfs.file.exprot.path</name>
+		<value>/apps/cassandra/lizhe/mrimp/myfilesortdemo/data</value>
+	</property>
+    <property></property>
+	
+	<property>
+		<name>task.pool.size</name>
+		<value>60</value>
+	</property>
+	
+</configuration>

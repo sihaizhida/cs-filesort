@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.dcs.common:dcs-common:1.1607.04.01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dcs/common/dcs-common/1.1607.04.01/dcs-common-1.1607.04.01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dcs/common/dcs-common/1.1607.04.01/dcs-common-1.1607.04.01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/dcs/common/dcs-common/1.1607.04.01/dcs-common-1.1607.04.01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
